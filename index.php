@@ -18,7 +18,7 @@
                 <h2>Iniciar Sesión</h2>
                 <input type="text" name="nombre_usuario" value="" placeholder="Nombre de Usuario" require><br>
                 <input type="password" name="password" value="" placeholder="Contraseña" require><br>
-                <button type="submit" name="inicio">Ingresar</button>
+                <button type="submit" name="inicio">Ingresar h</button>
             </form>
         </div>
     </div>
